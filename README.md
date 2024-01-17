@@ -1,17 +1,19 @@
 # Final-Project-Tableau
 
 ## Project/Goals
-(fill in your description and goals here)
+Answering qestions from option 1 using tableau to create visualization
 
 ## Process
-### (your step 1)
-### (your step 2)
+Data Acquisition: Obtaining the data from the provided dataset
+Data analysis: Getting familiar with each datasets
+Data Visualization: Making the appropriate visualization using Tableau
 
 ## Results
-(Fill in which Option you chose, either 1 or 2. List the dataset you selected for the project if you selected Option 2. Also, discuss the visualizations you created, and why. For Option 2, also identify what your data question was, and how you went through the prompts.)
+###Trend of house prices across Canada in the last 40 years
 
 ## Challenges 
-(discuss challenges you faced in the project)
+Technical issues: It is challenging still to navigate a new tool in Tableau 
+Cleaning the data: the dataset has some messy data that needed cleaning 
 
 ## Future Goals
-(what would you do if you had more time?)
+Clean the data further and also improve on Tableau skills to make better looking visuals
