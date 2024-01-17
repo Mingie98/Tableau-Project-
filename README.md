@@ -36,6 +36,7 @@ Data Visualization: Making the appropriate visualization using Tableau
 
 ## Challenges 
 Technical issues: It is challenging still to navigate a new tool in Tableau 
+
 Cleaning the data: the dataset has some messy data that needed cleaning 
 
 ## Future Goals
